@@ -1,0 +1,5 @@
+new repo
+choose owner
+create repo name
+make public
+create repo
