@@ -8,5 +8,5 @@ first-git-command.txt
 
 Updating commands:
 1. git add .
-2. git commit -m "any message"
+2. git commit -m "practice update"
 3. git push
